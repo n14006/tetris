@@ -9,13 +9,13 @@ __module_description__ = 'a clone of tetris written in python'
 __version__ = (0, 1, 0)
 
 # these are the dimensions from the gameboy version
-BOARD_WIDTH = 70
-BOARD_HEIGHT = 30
+BOARD_WIDTH = 15
+BOARD_HEIGHT = 15
 
 BLOCK_EMPTY = 0
 BLOCK_FULL = 1
 BLOCK_ACTIVE = 2
-BLOCK_IMG_FILE = 'img/block.png'
+BLOCK_IMG_FILE = 'img/mig.jpg'
 
 block = pyglet.image.load(BLOCK_IMG_FILE)
 block_sprite = pyglet.sprite.Sprite(block)
