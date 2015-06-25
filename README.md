@@ -2,5 +2,5 @@
 
 #参考にしたURL
 
-    [サイトはこちら](https://github.com/coleifer/tetris "サイト")
+    [https://github.com/coleifer/tetris](https://github.com/coleifer/tetris)
 
