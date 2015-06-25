@@ -9,8 +9,8 @@ __module_description__ = 'a clone of tetris written in python'
 __version__ = (0, 1, 0)
 
 # these are the dimensions from the gameboy version
-BOARD_WIDTH = 14
-BOARD_HEIGHT = 20
+BOARD_WIDTH = 70
+BOARD_HEIGHT = 30
 
 BLOCK_EMPTY = 0
 BLOCK_FULL = 1
